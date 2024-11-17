@@ -6,7 +6,8 @@
 ✨ I can speak 2 languages (English & Mandarin) <br>
 
 📫 **How to reach me**: <br>
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/john-lin-5373b5179/])
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-lin-5373b5179/)
+
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnlin8968@gmail.com)
 
 🏂**Hobby**: <br>
