@@ -10,7 +10,7 @@
 
 
 🏂**Hobby**: <br>
-  Photography 📷 Piano 🎹 Gym 💪
+Photography 📷 Piano 🎹 Gym 💪
 
 <h3>The technologies behind my code</h3>
 <p>
