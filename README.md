@@ -12,7 +12,7 @@
 🏂**Hobby**: <br>
 Photography 📷 Piano 🎹 Gym 💪
 
-<h3>The technologies behind my code</h3>
+<h3>The Technologies Behind My Code</h3>
 <p>
   <img alt="Html" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
