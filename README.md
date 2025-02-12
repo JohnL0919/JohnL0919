@@ -20,7 +20,7 @@ Photography 📷 Piano 🎹 Gym 💪
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)/>
+  <img alt="nextjs" src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)"/>
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnL0919)](https://github.com/JohnL0919/github-readme-stats)
