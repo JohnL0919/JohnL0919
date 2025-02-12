@@ -21,7 +21,7 @@ Photography 📷 Piano 🎹 Gym 💪
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="nextjs" src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)"/>
-  <img alt="vite" scr="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)" />
+  <img alt="vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)"/>
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnL0919)](https://github.com/JohnL0919/github-readme-stats)
