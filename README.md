@@ -14,14 +14,15 @@ Photography 📷 Piano 🎹 Gym 💪
 
 <h3>The Technologies Behind My Code</h3>
 <p>
-  <img alt="Html" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Html" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
+  <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black"/>
   <img alt="nextjs" src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)"/>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"/>
+  <img alt="tailwindcss" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
   <img alt="vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)"/>
+  <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white"/>
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnL0919)](https://github.com/JohnL0919/github-readme-stats)
