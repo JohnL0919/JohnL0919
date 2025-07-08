@@ -1,7 +1,7 @@
 ### Hi there 👋 I am John
 
 🧑🏻‍💻 I am an aspiring Full Stack developer <br>
-⚡ I'm now working on developing a AI Chat App Using ReactJS, TailwindCSS, Appwrite <br>
+⚡ I'm now working on developing a AI Gym Tracker web app Using Typescript, TailwindCSS <br>
 🏫 I'm final year software engineering student at UTS <br>
 ✨ I can speak 2 languages (English & Mandarin) <br>
 
